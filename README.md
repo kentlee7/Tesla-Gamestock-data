@@ -1,4 +1,4 @@
-# Tesla-Gamestock-data
+# Tesla-Gamestop-data
 Exercise for IBM Data Science course
 
 This project is a simple data analysis project using Python, for the IBM Data Scientist certificate program, specifically, for the Python Project for Data Science course. I completed this project on 24 July 2024. Due to some problems with the web interface of the Jupyter notebook in the IBM / Coursera course, I used Visual Studio Code on my desktop computer instead. 
